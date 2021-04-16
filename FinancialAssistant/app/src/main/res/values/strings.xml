@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Financial Assistant</string>
-    <string name="username">E-mail</string>
-    <string name="password">Senha</string>
-    <string name="keepLoggedIn">Manter logado</string>
-    <string name="forgotPassword">Esqueceu a senha?</string>
-    <string name="login">Fazer login</string>
-    <string name="signUp">Cadastre-se</string>
-</resources>
