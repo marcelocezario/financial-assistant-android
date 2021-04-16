@@ -7,7 +7,20 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
+    <!-- menu lateral -->
+    <string name="menu_balance">Balanço</string>
+    <string name="menu_payments">Pagamentos</string>
+    <string name="menu_receipts">Recebimentos</string>
+    <string name="menu_investments">Investimentos</string>
+    <string name="menu_accounts">Minhas contas</string>
+    <string name="menu_cards">Meus cartões</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="menu_aboutApp">Sobre o app</string>
+    <string name="menu_aboutDev">Sobre o desenvolvedor</string>
+    <string name="menu_contribute">Contribua com app</string>
+
+
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

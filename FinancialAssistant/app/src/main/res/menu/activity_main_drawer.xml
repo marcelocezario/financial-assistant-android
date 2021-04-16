@@ -8,13 +8,55 @@
             android:id="@+id/nav_home"
             android:icon="@drawable/ic_menu_camera"
             android:title="@string/menu_home" />
+
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
+            android:id="@+id/nav_balance"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_balance" />
+
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
+            android:id="@+id/nav_payments"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_payments" />
+
+        <item
+            android:id="@+id/nav_receipts"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_receipts" />
+
+        <item
+            android:id="@+id/nav_investments"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_investments" />
+
+        <item
+            android:id="@+id/nav_accounts"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_accounts" />
+
+        <item
+            android:id="@+id/nav_cards"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_cards" />
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_settings" />
+
+        <item
+            android:id="@+id/nav_aboutApp"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_aboutApp" />
+
+        <item
+            android:id="@+id/nav_aboutDev"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_aboutDev" />
+
+        <item
+            android:id="@+id/nav_contribute"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_contribute" />
     </group>
 </menu>

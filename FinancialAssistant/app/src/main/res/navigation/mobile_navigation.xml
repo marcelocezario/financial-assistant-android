@@ -12,14 +12,63 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/nav_gallery"
-        android:name="br.dev.mhc.financialassistant.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        android:id="@+id/nav_balance"
+        android:name="br.dev.mhc.financialassistant.ui.balance.BalanceFragment"
+        android:label="@string/menu_balance"
+        tools:layout="@layout/fragment_balance" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="br.dev.mhc.financialassistant.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        android:id="@+id/nav_payments"
+        android:name="br.dev.mhc.financialassistant.ui.payments.PaymentsFragment"
+        android:label="@string/menu_payments"
+        tools:layout="@layout/fragment_payments" />
+
+    <fragment
+        android:id="@+id/nav_receipts"
+        android:name="br.dev.mhc.financialassistant.ui.receipts.ReceiptsFragment"
+        android:label="@string/menu_receipts"
+        tools:layout="@layout/fragment_receipts" />
+
+    <fragment
+        android:id="@+id/nav_investments"
+        android:name="br.dev.mhc.financialassistant.ui.investments.InvestmentsFragment"
+        android:label="@string/menu_investments"
+        tools:layout="@layout/fragment_investments" />
+
+    <fragment
+        android:id="@+id/nav_accounts"
+        android:name="br.dev.mhc.financialassistant.ui.accounts.AccountsFragment"
+        android:label="@string/menu_accounts"
+        tools:layout="@layout/fragment_accounts" />
+
+    <fragment
+        android:id="@+id/nav_cards"
+        android:name="br.dev.mhc.financialassistant.ui.cards.CardsFragment"
+        android:label="@string/menu_cards"
+        tools:layout="@layout/fragment_cards" />
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="br.dev.mhc.financialassistant.ui.settings.SettingsFragment"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/fragment_settings" />
+
+    <fragment
+        android:id="@+id/nav_aboutApp"
+        android:name="br.dev.mhc.financialassistant.ui.aboutApp.AboutAppFragment"
+        android:label="@string/menu_aboutApp"
+        tools:layout="@layout/fragment_about_app" />
+
+    <fragment
+        android:id="@+id/nav_aboutDev"
+        android:name="br.dev.mhc.financialassistant.ui.aboutDev.AboutDevFragment"
+        android:label="@string/menu_aboutDev"
+        tools:layout="@layout/fragment_about_dev" />
+
+    <fragment
+        android:id="@+id/nav_contribute"
+        android:name="br.dev.mhc.financialassistant.ui.contribute.ContributeFragment"
+        android:label="@string/menu_contribute"
+        tools:layout="@layout/fragment_contribute" />
+
 </navigation>
